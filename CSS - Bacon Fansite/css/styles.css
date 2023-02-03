@@ -13,6 +13,8 @@ img:hover {
 
 .bacon {
   background-color: green;
+  position: relative;
+  left: 300px;
 }
 .broccoli {
   background-color: red;
